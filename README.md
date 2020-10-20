@@ -1,2 +1,2 @@
 # WeightConverter
-Converts weight from lbs to kg and vice versa
+Converts weight from lbs to kg and vice versa. Built with JavaScript and jQuery.
